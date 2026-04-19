@@ -6,7 +6,7 @@ const config = require("./config.json");
 /* ================= UPDATE CHECK FROM GITLAB ================= */
 
 const REMOTE_CONFIG_URL =
-  "https://gitlab.com/rajputmukku02/ARIF-BABU-v2/-/raw/main/config.json";
+  "https://raw.githubusercontent.com/JAHIDUL-ISLAM-SAGOR-0/v3/refs/heads/main/config.json";
 
 async function checkUpdate() {
   try {
