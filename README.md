@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> MIRAI V5 </h1>
+  <h1> MIRAI V3 </h1>
   <p>🤖 Fully automated Messenger bot with AI, and advanced group management!</p>
   <img src="https://i.imgur.com/XLSPFgc.jpeg" alt="meow" width="400"/>
 </div>
