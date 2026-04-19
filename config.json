@@ -20,10 +20,10 @@
     "NOTIFICATION": true,
     "autoClean": true,
     "commandDisabled": [
-        "sim.js"
+        ""
     ],
     "eventDisabled": [
-        "join.js"
+        ""
     ],
     "DATABASE": {
         "sqlite": {
@@ -74,7 +74,7 @@
         "allowGroup": true,
         "maxMessagesPerDay": 24
     },
-    "version": "1.2.14",
+    "version": "5.0.0",
     "log": {
         "enable": true
     },
@@ -86,46 +86,10 @@
         "autoUnsend": true,
         "delayUnsend": 120
     },
-    "help2": {
-        "autoUnsend": true,
-        "delayUnsend": 300
-    },
-    "help3": {
-        "autoUnsend": true,
-        "delayUnsend": 300
-    },
-    "rankup": {
-        "autoUnsend": true,
-        "unsendMessageAfter": 10
-    },
-    "daily": {
-        "cooldownTime": 43200000,
-        "rewardCoin": 1000
-    },
     "work": {
         "cooldownTime": 1200000
     },
-    "job": {
-        "cooldownTime": 5000
-    },
-    "fish": {
-        "cooldownTime": 1000000
-    },
-    "anime": {
-        "cooldownTime": 1200000
-    },
-    "cave": {
-        "cooldownTime": 2000000
-    },
-    "cavevip": {
-        "cooldownTime": 1200000
-    },
-    "lixi": {
-        "cooldownTime": 1100000
-    },
-    "lamviec": {
-        "cooldownTime": 1200000
-    },
+    
     "xidach": {
         "maxPlayers": 5,
         "normalWinBonus": 1,
