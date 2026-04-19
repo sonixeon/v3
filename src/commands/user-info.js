@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "userinf",
+  name: "userinfo",
   version: "1.3.0",
   hasPermssion: 0,
   credits: "SaGor",
