@@ -12,7 +12,7 @@
         "61581197276223",
         "61576500657447"
     ],
-    "adminOnly": true,
+    "adminOnly": false,
     "ndhOnly": false,
     "adminPaOnly": false,
     "allowInbox": true,
@@ -48,7 +48,7 @@
         "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
     },
     "usePrefix": {
-        "enable": false
+        "enable": true
     },
     "hideNotiMessage": {
         "commandNotFound": false
