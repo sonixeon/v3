@@ -48,7 +48,7 @@
         "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
     },
     "usePrefix": {
-        "enable": true
+        "enable": false
     },
     "hideNotiMessage": {
         "commandNotFound": false
