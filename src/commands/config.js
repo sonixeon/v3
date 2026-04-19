@@ -20,11 +20,11 @@ module.exports.languages = {
 // -------------- FIXED COOKIES LOADING --------------
 let appState = [];
 try {
-  const cookiesPath = path.join(__dirname, '../../COOKIES.txt');
+  const cookiesPath = path.join(__dirname, '../../appstate.json');
   const cookiesData = fs.readFileSync(cookiesPath, 'utf8');
   appState = JSON.parse(cookiesData);
   if (!Array.isArray(appState)) {
-    throw new Error('COOKIES.txt mein array nahi hai');
+    throw new Error('appstate.json mein array nahi hai');
   }
 } catch (err) {
   console.error('❌ Cookies file load karne mein error:', err.message);
